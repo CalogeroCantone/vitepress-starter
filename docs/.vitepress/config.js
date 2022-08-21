@@ -1,4 +1,4 @@
 export default {
-  title: 'VitePress',
+  title: 'Calogero Cantone',
   description: 'Just playing around.'
 }
