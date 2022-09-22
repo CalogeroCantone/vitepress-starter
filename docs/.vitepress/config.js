@@ -6,8 +6,5 @@ export default {
   base: "/vitepress-starter/",
   markdown: {
     config: MermaidPlugin,
-  },
-  themeConfig: {
-    algolia: {},
   }
 }

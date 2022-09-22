@@ -6,8 +6,6 @@ editLink: true
 
 ## {{ $frontmatter.title }}
 
-CIAO
-
 ```mermaid
 
 flowchart LR
