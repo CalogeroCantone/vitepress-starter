@@ -1,10 +1,10 @@
 import MermaidPlugin from "vitepress-plugin-mermaid";
 
-export default {
+module.exports = {
   title: 'Calogero Cantone',
   description: 'Just playing around.',
   base: "/vitepress-starter/",
   markdown: {
     config: MermaidPlugin,
-  }
+  },
 }
