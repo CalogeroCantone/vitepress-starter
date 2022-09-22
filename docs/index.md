@@ -9,4 +9,6 @@ layout: doc
 
 This is the Home page.
 
-[subpage](subpage/)
+- [subpage](subpage/)
+- [RFC](RFC/)
+- [Mermaid](mermaid/)
